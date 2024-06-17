@@ -1,2 +1,2 @@
-# KBC-Quiz-game
-the game is quiz game question and answer
+# Python Coder 
+start journey with python code......
